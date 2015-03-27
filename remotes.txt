@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/fsnotify (fetch)
+origin	git@github.com:skyportsystems/fsnotify (push)
+upstream	https://github.com/howeyc/fsnotify.git (fetch)
+upstream	https://github.com/howeyc/fsnotify.git (push)
